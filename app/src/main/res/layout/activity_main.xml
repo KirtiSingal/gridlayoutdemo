@@ -19,7 +19,7 @@
         android:layout_width="wrap_content"
         android:text="hello01"
         android:layout_rowSpan="1"
-        android:textSize="@dimen/_16sdp"
+        android:textSize="@dimen/_16sdp"lkedklkndfv
         />
     <TextView
         android:layout_rowSpan="1"
